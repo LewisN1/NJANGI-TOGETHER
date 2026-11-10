@@ -1,0 +1,6 @@
+{
+  "name": "Njangi Together",
+  "description": "Mobile-friendly njangi group management app for Cameroon: manage contributions, rotating payouts, records, and accountability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
